@@ -1,0 +1,6 @@
+echo "Vba-Homework" >> README.md
+git init
+git add README.ed
+git commit -m "first commit"
+git remote add origin git@github.com:Whitney128/Vba-Homework.git
+git push -u origin master
